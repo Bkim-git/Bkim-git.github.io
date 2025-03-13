@@ -3,3 +3,12 @@ include:
   - _layouts
   - _includes
   - assets/css
+
+title: "My Custom Jekyll Site"
+description: "A Jekyll site with a customized minimal theme"
+baseurl: "" # Leave empty for user.github.io; change for project sites
+url: "https://username.github.io"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
