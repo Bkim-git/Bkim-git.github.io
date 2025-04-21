@@ -15,32 +15,45 @@
 
 <body>
   <div class="wrapper">
+
+    <!-- 🔹 Left Sidebar -->
     <header style="display: flex; flex-direction: column; height: 100vh;">
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-      {% if site.logo %}
-      <img src="{{ site.logo | relative_url }}" alt="Logo" />
-      {% endif %}
+      <!-- 🔸 Top section: Title, description, logo, and navigation -->
+      <div>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="Logo" />
+        {% endif %}
 
-      {% if site.github.is_project_page %}
-      <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-      {% endif %}
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      {% if site.github.is_user_page %}
-      <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-      {% endif %}
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
 
-      {% if site.show_downloads %}
-      <ul class="downloads">
-        <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-        <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-      </ul>
-      {% endif %}
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
 
-      <!-- 🔹 Contact Info (pinned to bottom) -->
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+
+        <!-- 🔸 Navigation Links -->
+        <nav style="margin-top: 20px;">
+          {% for item in site.nav %}
+            <p><a href="{{ item.url | relative_url }}">📁 {{ item.title }}</a></p>
+          {% endfor %}
+        </nav>
+      </div>
+
+      <!-- 🔸 Bottom-aligned Contact Info -->
       <div style="margin-top: auto; font-size: 0.9em; line-height: 1.4;">
         <p>🏫 {{ site.affiliation }}</p>
         <p>📧 <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
@@ -48,19 +61,9 @@
         <p>🔎 <a href="{{ site.google_scholar }}" target="_blank">Google Scholar</a></p>
         <p>🐙 <a href="{{ site.github_link }}" target="_blank">GitHub</a></p>
       </div>
-
-      
-      </div>
-      <!-- 🔹 Navigation -->
-      <nav style="margin-top: 20px;">
-        {% for item in site.nav %}
-          <p><a href="{{ item.url | relative_url }}">📁 {{ item.title }}</a></p>
-        {% endfor %}
-      </nav>
-
     </header>
 
-    <!-- 🔸 Main Content -->
+    <!-- 🔸 Main Content Area -->
     <section>
       {{ content }}
     </section>
