@@ -34,7 +34,7 @@ This page contains links to datasets, models, and supplementary material related
 ## 📝 Usage & License
 
 All datasets are released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).  
-If you use the data, please cite the corresponding publication or Zenodo DOI.
+If you use the data, please cite the corresponding publication.
 
 ---
 
