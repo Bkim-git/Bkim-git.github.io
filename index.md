@@ -4,7 +4,7 @@ title: "Home"
 ---
 ## About me
 - Name: Byunguk Kim
-- Affiliation: Department of Civil & Environmental Engineering, Seoul National University
+- Affiliation: Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea
 - Major: Coastal Engineering
 - Lauguage: English, Korean, Python
 - Subjects: Remote sensing of coastal processes
