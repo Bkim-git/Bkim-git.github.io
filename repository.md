@@ -10,7 +10,7 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  Field-scale tracer experiment data
+###  Drone-aquiared wave field video and bathymetry data
 - **Description**: Drone-acquired wave field videos and bathymetry survey data during the field campaign in Jangsa Beach, South Korea.
 - **Size**: 9.45 GB
 - **File Types**: `.mp4`, `.csv`
