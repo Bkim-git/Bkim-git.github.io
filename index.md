@@ -13,7 +13,6 @@ title: "Home"
 - (Mar., 2012 – Aug., 2019)  BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-<a href="https://doi.org/10.1080/21664250.2025.1234567" target="_blank" style="display: block; padding: 10px 12px; margin-bottom: 12px; background-color: #007acc; color: white; text-decoration: none; border-radius: 5px;">
 - [S12] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
 - [S11] Jeong, W., Park, Y.S.*,  **Kim, B.**, & Baek, S. (Under review) Experimental study of tracer concentration profile in backward erosion piping. Journal of Hydro-environment Research [[Link]](https://doi.org/10.1016/j.jher.2023.123456)
 - [S10] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (2025) Estimation of Roughness Height on Oyster Reefs.  Journal of Geophysical Research: Oceans., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
