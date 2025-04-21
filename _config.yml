@@ -11,6 +11,8 @@ email: "kim.byunguk@snu.ac.kr"
 website: "https://bkim-git.github.io"
 affiliation: "Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea"
 github_link: "https://github.com/Bkim-git"
+website: "https://www.researchgate.net/profile/Byunguk-Kim"
+google_scholar: "https://scholar.google.com/citations?hl=ko&user=wT66tyUAAAAJ"
 
 plugins:
   - jekyll-feed
