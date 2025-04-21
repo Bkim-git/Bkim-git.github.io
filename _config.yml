@@ -21,7 +21,8 @@ nav:
     url: "/gallery/"
   - title: "Blog"
     url: "/blog/"
-
+  - title: "Data repository"
+    url: "/repository/"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
