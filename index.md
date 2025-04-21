@@ -34,12 +34,12 @@ title: "Home"
 
 
 ## Publications - Domestic Journals
-- [D06] Noh, H., **Kim, B.**, Park, Y.S.*, Lee, M., (Under review)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, Journal of Korea Society of Coastal and Ocean Engineers, 37(1), 1-14 [[Link]](https://doi.org/10.9765/KSCOE.2025.37.1.1)
-- [D05] **Kim, B.**, Seo, I.W.*, Kim, J.S., Noh, H. (2024)  A Review of Transient Storage Modeling for Analyzing One-Dimensional Non-Fickian Solute Transport in Rivers, Journal of Korea Water Resources Association, 57(4), 263-276 [[Link]](https://jkwra.or.kr/articles/article/L2yR/)
-- [D04] Noh, H., **Kim, B.**, Lee, M., Park, Y.S.*, Bang, K.Y., & Yoo, H. (2022) Survey of coastal topography using a UAV, Journal of Korea Water Resources Association, 56(S-1), 1027-1036. [[Link]](https://www.kwra.or.kr/publication/p-journal/list2/2023/%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C%EB%85%BC%EB%AC%B8%EC%A7%91%20%ED%8A%B9%EC%A7%91%ED%98%B8/Vol.%2056%20No.%20S-1/)
+- [D06] Noh, H., **Kim, B.**, Park, Y.S.*, Lee, M., (Under review)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, *Journal of Korea Society of Coastal and Ocean Engineers*, 37(1), 1-14 [[Link]](https://doi.org/10.9765/KSCOE.2025.37.1.1)
+- [D05] **Kim, B.**, Seo, I.W.*, Kim, J.S., Noh, H. (2024)  A Review of Transient Storage Modeling for Analyzing One-Dimensional Non-Fickian Solute Transport in Rivers, *Journal of Korea Water Resources Association*, 57(4), 263-276 [[Link]](https://jkwra.or.kr/articles/article/L2yR/)
+- [D04] Noh, H., **Kim, B.**, Lee, M., Park, Y.S.*, Bang, K.Y., & Yoo, H. (2022) Survey of coastal topography using a UAV, *Journal of Korea Water Resources Association*, 56(S-1), 1027-1036. [[Link]](https://www.kwra.or.kr/publication/p-journal/list2/2023/%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C%EB%85%BC%EB%AC%B8%EC%A7%91%20%ED%8A%B9%EC%A7%91%ED%98%B8/Vol.%2056%20No.%20S-1/)
 - [D03] Jeong, W., **Kim, B.**, Seo, I. W.*, & Park, Y. S. (2022) Detecting Backward Erosion Piping Using a Tracer, Journal of Civil and Environmental Engineering Research, 43(1), 55-62. [[Link]](http://journal.auric.kr/jksce/ArticleDetail/RD_R/420464)
-- [D02] Jung, S.H., Seo, I. W.*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. Journal of the Korean Society of Hazard Mitigation, 22(6), 551-561. [[Link]](https://www.j-kosham.or.kr/journal/view.php?doi=10.9798/KOSHAM.2022.22.6.351)
-- [D01] **Kim, B.**, Seo, I. W.*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. Journal of Korea Water Resources Association, 54(5), 335-345. [[Link]](https://jkwra.or.kr/articles/xml/0KW8/)
+- [D02] Jung, S.H., Seo, I. W.*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. *Journal of the Korean Society of Hazard Mitigation*, 22(6), 551-561. [[Link]](https://www.j-kosham.or.kr/journal/view.php?doi=10.9798/KOSHAM.2022.22.6.351)
+- [D01] **Kim, B.**, Seo, I. W.*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. *Journal of Korea Water Resources Association*, 54(5), 335-345. [[Link]](https://jkwra.or.kr/articles/xml/0KW8/)
 
 * Corresponding author
   
