@@ -28,5 +28,11 @@ river confluence. Journal of Hydro-environment Research, 56, 1-15 [Link]
 - [S02] Kwon, S., Seo, I. W.*, Noh, H., & **Kim, B.** (2022). Hyperspectral retrievals of suspended sediment using cluster-based machine learning regression in shallow waters. Science of the Total Environment, 155168.  [Link]
 - [S01] **Kim, B.**, Seo, I. W.*, Kwon, S., Jung, S. H., & Choi, Y. (2021). Modelling one-dimensional reactive transport of toxic contaminants in natural rivers. Environmental Modelling & Software, 104971.  [Link]
 
-> ✉️ Contact: kim.byunguk@snu.ac.kr  
-> 🧠 GitHub: [Bkim-git](https://github.com/Bkim-git)
+
+## Publications - Domestic Journals
+[D06] Noh, H., **Kim, B.**, Park, Y.S.*, Lee, M., (Under review)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, Journal of Korea Society of Coastal and Ocean Engineers, 37(1), 1-14 [Link]
+[D05] **Kim, B.**, Seo, I.W.*, Kim, J.S., Noh, H. (2024)  A Review of Transient Storage Modeling for Analyzing One-Dimensional Non-Fickian Solute Transport in Rivers, Journal of Korea Water Resources Association, 57(4), 263-276 [Link]
+[D04] Noh, H., **Kim, B.**, Lee, M., Park, Y.S.*, Bang, K.Y., & Yoo, H. (2022) Survey of coastal topography using a UAV, Journal of Korea Water Resources Association, 56(S-1), 1027-1036 [Link]
+[D03] Jeong, W., **Kim, B.**, Seo, I. W.*, & Park, Y. S. (2022) Detecting Backward Erosion Piping Using a Tracer, Journal of Civil and Environmental Engineering Research, 43(1), 55-62. [Link]
+[D02] Jung, S.H., Seo, I. W.*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. Journal of the Korean Society of Hazard Mitigation, 22(6), 551-561. [Link] 
+[D01] **Kim, B.**, Seo, I. W.*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. Journal of Korea Water Resources Association, 54(5), 335-345.  [Link]
