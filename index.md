@@ -41,7 +41,10 @@ title: "Home"
 - [D02] Jung, S.H., Seo, I. W.\*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. *Journal of the Korean Society of Hazard Mitigation*, 22(6), 551-561. [[Link]](https://www.j-kosham.or.kr/journal/view.php?doi=10.9798/KOSHAM.2022.22.6.351)
 - [D01] **Kim, B.**, Seo, I. W.\*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. *Journal of Korea Water Resources Association*, 54(5), 335-345. [[Link]](https://jkwra.or.kr/articles/xml/0KW8/)
 
+<div style="text-align: right;">
 \* Corresponding author
+</div>
+
   
 ## Awards
 - (May, 2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), Republic of Korea 
