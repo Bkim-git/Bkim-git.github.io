@@ -2,6 +2,11 @@
 layout: default
 title: "Home"
 ---
+## About me
+- Name: Byunguk Kim
+- Affiliation: Department of Civil & Environmental Engineering, Seoul National University
+- Lauguage: English, Korean, Python
+
 ## Educational background
 - Mar., 2022 – Present  PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
 - Mar., 2020 – Feb., 2022  MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
