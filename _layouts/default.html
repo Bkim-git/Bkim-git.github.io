@@ -49,6 +49,12 @@
         <p>🐙 <a href="{{ site.github_link }}" target="_blank">GitHub</a></p>
 
       </div>
+    <!-- 🔹 Navigation -->
+    <nav style="margin-top: 20px;">
+      {% for item in site.nav %}
+        <p><a href="{{ item.url | relative_url }}">📁 {{ item.title }}</a></p>
+      {% endfor %}
+    </nav>
     </header>
 
     <!-- 🔸 Main Content -->
