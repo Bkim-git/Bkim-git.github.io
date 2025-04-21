@@ -40,6 +40,20 @@
         {% endif %}
       </header>
 
+    <div style="display: flex; max-width: 960px; margin: auto;">
+      <!-- LEFT SIDEBAR -->
+      <div style="flex: 0 0 200px; padding: 20px; border-right: 1px solid #ddd;">
+        <h3>Contact</h3>
+        <p><strong>Email:</strong><br> your.email@snu.ac.kr</p>
+        <p><strong>GitHub:</strong><br> <a href="https://github.com/Bkim-git" target="_blank">Bkim-git</a></p>
+        <p><strong>Affiliation:</strong><br> Seoul National University</p>
+      </div>
+
+      <!-- MAIN CONTENT -->
+      <div style="flex: 1; padding: 20px;">
+        {{ content }}
+      </div>
+      
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
