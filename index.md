@@ -3,10 +3,23 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Hi, I'm Byunguk Kim
+# 👋 Hello, I'm Byunguk Kim
 
-Ph.D. candidate at Seoul National University, working on coastal wave dynamics, remote sensing, and bathymetric inversion using video data.
+Ph.D. candidate at Seoul National University  
+Specializing in coastal wave dynamics, depth inversion, and video-based wave analysis.
 
-## Projects
-- **Wave Mode Decomposition Suite**: A toolbox for extracting dominant wave modes using DMD, FFT, EMD.
-- **Depth-from-Wave (DfW)**: Algorithm for shallow water depth inversion using drone imagery and nonlinear wave dispersion.
+## 🔬 Research Interests
+- Coastal morphodynamics
+- Depth inversion using wave dispersion
+- Mode decomposition (FFT, DMD, EMD, VMD)
+- Signal processing from drone-acquired wave imagery
+
+## 📂 Featured Projects
+- **Wave Mode Decomposition Suite**  
+  A toolbox to extract significant wave modes using spectral and empirical methods.
+
+- **Nonlinearity-Corrected Depth Inversion**  
+  A method to improve shallow-water bathymetry estimates from irregular wave fields.
+
+> ✉️ Contact: your.email@snu.ac.kr  
+> 🧠 GitHub: [Bkim-git](https://github.com/Bkim-git)
