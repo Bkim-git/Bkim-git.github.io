@@ -4,6 +4,7 @@ title: "Home"
 ---
 ## About me
 - Name: Byunguk Kim
+- Position: PhD candidate
 - Affiliation: Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea
 - Major: Coastal Engineering
 - Lauguage: English, Korean, Python
