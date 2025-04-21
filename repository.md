@@ -10,7 +10,7 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  Drone-aquiared wave field video and bathymetry data
+###  Drone-aquiared wave field videos and bathymetry data
 - **Description**: Drone-acquired wave field videos and bathymetry survey data during the field campaign in Jangsa Beach, South Korea.
 - **Size**: 9.45 GB
 - **File Types**: `.mp4`, `.csv`
@@ -20,7 +20,7 @@ This page contains links to datasets, models, and supplementary material related
   
 ---
 
-###  Field-scale tracer experiment data
+###  Field-scale tracer test dataset
 - **Description**: The time-series of the tracer (Rhodamine WT) concentrations observed in the tracer tests, conducted in the rivers of South Korea.
 - **Size**: 1.25 MB
 - **File Types**: `.xlsx`
