@@ -10,36 +10,15 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  Depth Inversion Dataset (DfW)
-- **Description**: Raw and processed video datasets from drone-based surveys at Byeonsan Beach. Includes georeferenced wave field stacks and inverted bathymetry outputs.
-- **Size**: 12.3 GB
-- **File Types**: `.mp4`, `.npz`, `.csv`, `.tif`
-- **Link**: [📁 Zenodo DOI: 10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
-
+###  Field-scale tracer experiment data
+- **Description**: The time-series of the tracer (Rhodamine WT) concentrations observed in the tracer tests, conducted in the rivers of South Korea.
+- **Size**: 1.25 MB
+- **File Types**: `.xlsx`
+- **Last update**:	7 Mar 2023
+- **Link**: [Mendeley data]([https://doi.org/10.5281/zenodo.1234567](https://data.mendeley.com/preview/62bfsbd3bj?a=bd8b9f0b-9b24-41cf-9f52-d22f2935d193))
+- **Related paper**: Kim, B., Kwon, S., Noh, H., & Seo, I. W. (2022). Surrogate prediction of the breakthrough curve of solute transport in rivers using its reach length dependence. Journal of Contaminant Hydrology, 249, 104024.
 ---
 
-###  SfM-based Elevation Maps
-- **Description**: Structure-from-Motion 3D surface reconstructions from UAV photogrammetry during spring-neap tidal cycle.
-- **Coverage**: April 2023, Byeonsan Beach
-- **Link**: [Google Drive Folder](https://drive.google.com/drive/folder/your-folder-id)
-
----
-
-###  Numerical Model Inputs & Results
-- **Model**: XBeach and FUNWAVE-TVD input/output files used in sediment transport studies
-- **Content**: `.grd`, `.txt`, `.nc`, `.mat`
-- **Link**: [GitHub Repo](https://github.com/Bkim-git/xfunwave-data)
-
----
-
-###  Supplementary Materials for Publications
-- **Description**: Data associated with journal publications, including:
-  - Validation datasets
-  - Calibration tables
-  - Sample codes
-- **Access**: Included in individual paper GitHub links or Zenodo archive
-
----
 
 ## 📝 Usage & License
 
