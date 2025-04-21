@@ -15,7 +15,7 @@ title: "Home"
 ## Publications - SCI(E) indexed Journals
 - [S12] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
 - [S11] Jeong, W., Park, Y.S.*,  **Kim, B.**, & Baek, S. (Under review) Experimental study of tracer concentration profile in backward erosion piping. Journal of Hydro-environment Research [Link]
-- [S10] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In press) Experimental investigation of roughness height estimation on an uneven oyster reef.  Journal of Geophysical Research: Oceans.
+- [S10] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (2025) Estimation of Roughness Height on Oyster Reefs.  Journal of Geophysical Research: Oceans., 130(4), e2024JC021888.
 - [S09] **Kim, B., Park, Y.S.*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. Coastal Engineering Journal, 1-13 [Link]
 - [S08] Lee, M., Park, Y.S.*, Ko, J.S., Choi, S., Lyu, S., &  **Kim, B.** (2024) The influence of density difference, discharge ratio and wind on the mixing at large
 river confluence. Journal of Hydro-environment Research, 56, 1-15 [Link]
