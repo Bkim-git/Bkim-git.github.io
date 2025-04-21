@@ -10,18 +10,10 @@ Specializing in coastal wave dynamics, depth inversion, and video-based wave ana
 
 ## Educational background
 - Mar., 2022 – Present  PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
-
 - Mar., 2020 – Feb., 2022  MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
-
 - Mar., 2012 – Aug., 2019  BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-- **Wave Mode Decomposition Suite**  
-  A toolbox to extract significant wave modes using spectral and empirical methods.
-
-- **Nonlinearity-Corrected Depth Inversion**  
-  A method to improve shallow-water bathymetry estimates from irregular wave fields.
-
 - [S12] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
 - [S11] Jeong, W., Park, Y.S.*,  **Kim, B.**, & Baek, S. (Under review) Experimental study of tracer concentration profile in backward erosion piping. Journal of Hydro-environment Research [Link]
 - [S10] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In press) Experimental investigation of roughness height estimation on an uneven oyster reef.  Journal of Geophysical Research: Oceans.
