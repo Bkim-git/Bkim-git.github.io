@@ -16,7 +16,7 @@ google_scholar: "https://scholar.google.com/citations?hl=ko&user=wT66tyUAAAAJ"
 
 nav:
   - title: "About Me"
-    url: "/aboutme/"
+    url: "/"
   - title: "Gallery"
     url: "/gallery/"
   - title: "Blog"
