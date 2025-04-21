@@ -36,3 +36,17 @@ river confluence. Journal of Hydro-environment Research, 56, 1-15 [Link]
 [D03] Jeong, W., **Kim, B.**, Seo, I. W.*, & Park, Y. S. (2022) Detecting Backward Erosion Piping Using a Tracer, Journal of Civil and Environmental Engineering Research, 43(1), 55-62. [Link]
 [D02] Jung, S.H., Seo, I. W.*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. Journal of the Korean Society of Hazard Mitigation, 22(6), 551-561. [Link] 
 [D01] **Kim, B.**, Seo, I. W.*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. Journal of Korea Water Resources Association, 54(5), 335-345.  [Link]
+
+## Awards
+May, 2024            Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), Republic of Korea 
+Oct. 2023             Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, Republic of Korea 
+Oct. 2023             Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, Republic of Korea 
+Sep. 2023		          NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, Republic of Korea
+Feb. 2023             Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, Republic of Korea 
+Oct. 2022             Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
+Jun. 2022             1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, Republic of Korea 
+Apr. 2022             2022 KPHA Scholarship, Korean Ports & Harbours Association, Republic of Korea 
+Jun. 2021             Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
+Oct. 2020             Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
+Jun. 2020             Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
+
