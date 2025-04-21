@@ -6,7 +6,7 @@ include:
 
 title: "Byunguk Kim's personal webpage"
 description: "This is the personal website of Byunguk Kim, PhD candidate in Coastal Engineering Lab. at Seoul National University."
-email: "kim.byunguk@snu.ac.kr"
+:mailbox: "kim.byunguk@snu.ac.kr"
 affiliation: "Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea"
 # github_link: "https://github.com/Bkim-git"
 # baseurl: "" # Leave empty for user.github.io; change for project sites
