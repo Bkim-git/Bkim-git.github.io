@@ -6,12 +6,12 @@ include:
 
 title: "Byunguk Kim's personal webpage"
 description: "This is the personal website of Byunguk Kim, PhD candidate in Coastal Engineering Laboratory at Seoul National University."
-📫 "kim.byunguk@snu.ac.kr"
+
+email: "kim.byunguk@snu.ac.kr"
+website: "https://bkim-git.github.io"
 affiliation: "Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea"
-# github_link: "https://github.com/Bkim-git"
-# baseurl: "" # Leave empty for user.github.io; change for project sites
-# url: "https://username.github.io"
-# markdown: kramdown
+github_link: "https://github.com/Bkim-git"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
