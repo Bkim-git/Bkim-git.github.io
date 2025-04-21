@@ -10,7 +10,7 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-### 🌊 Depth Inversion Dataset (DfW)
+###  Depth Inversion Dataset (DfW)
 - **Description**: Raw and processed video datasets from drone-based surveys at Byeonsan Beach. Includes georeferenced wave field stacks and inverted bathymetry outputs.
 - **Size**: 12.3 GB
 - **File Types**: `.mp4`, `.npz`, `.csv`, `.tif`
@@ -18,21 +18,21 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-### 📸 SfM-based Elevation Maps
+###  SfM-based Elevation Maps
 - **Description**: Structure-from-Motion 3D surface reconstructions from UAV photogrammetry during spring-neap tidal cycle.
 - **Coverage**: April 2023, Byeonsan Beach
 - **Link**: [Google Drive Folder](https://drive.google.com/drive/folder/your-folder-id)
 
 ---
 
-### 💾 Numerical Model Inputs & Results
+###  Numerical Model Inputs & Results
 - **Model**: XBeach and FUNWAVE-TVD input/output files used in sediment transport studies
 - **Content**: `.grd`, `.txt`, `.nc`, `.mat`
 - **Link**: [GitHub Repo](https://github.com/Bkim-git/xfunwave-data)
 
 ---
 
-### 📄 Supplementary Materials for Publications
+###  Supplementary Materials for Publications
 - **Description**: Data associated with journal publications, including:
   - Validation datasets
   - Calibration tables
