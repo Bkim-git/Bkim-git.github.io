@@ -2,12 +2,6 @@
 layout: default
 title: "Home"
 ---
-
-# Byunguk Kim
-
-Ph.D. candidate at Seoul National University  
-Specializing in coastal wave dynamics, depth inversion, and video-based wave analysis.
-
 ## Educational background
 - Mar., 2022 – Present  PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
 - Mar., 2020 – Feb., 2022  MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
