@@ -14,9 +14,9 @@ title: "Home"
 
 ## Publications - SCI(E) indexed Journals
 - [S12] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
-- [S11] Jeong, W., Park, Y.S.*,  **Kim, B.**, & Baek, S. (Under review) Experimental study of tracer concentration profile in backward erosion piping. Journal of Hydro-environment Research [Link]
+- [S11] Jeong, W., Park, Y.S.*,  **Kim, B.**, & Baek, S. (Under review) Experimental study of tracer concentration profile in backward erosion piping. Journal of Hydro-environment Research [Link](https://doi.org/10.1016/j.jher.2023.123456)
 - [S10] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (2025) Estimation of Roughness Height on Oyster Reefs.  Journal of Geophysical Research: Oceans., 130(4), e2024JC021888.
-- [S09] **Kim, B., Park, Y.S.*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. Coastal Engineering Journal, 1-13 [Link]
+- [S09] **Kim, B., Park, Y.S.*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. Coastal Engineering Journal, 1-13 [Link](https://doi.org/10.1016/j.jher.2023.123456)
 - [S08] Lee, M., Park, Y.S.*, Ko, J.S., Choi, S., Lyu, S., &  **Kim, B.** (2024) The influence of density difference, discharge ratio and wind on the mixing at large
 river confluence. Journal of Hydro-environment Research, 56, 1-15 [Link]
 - [S07] Kwon, S., Seo, I.W.*, **Kim, B.**, Jung, S.H., & Kim, Y. D. (2024) Assessment of river recreation safety using hydrodynamic model and fuzzy logic: A spatial river recreational index approach. Journal of Hydro-environment Research, 55, 30-45 [Link]
