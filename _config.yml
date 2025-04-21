@@ -4,8 +4,8 @@ include:
   - _includes
   - assets/css
 
-title: "Byunguk Kim's personal webpage"
-description: "A Jekyll site with a customized minimal theme"
+# title: "Byunguk Kim's personal webpage"
+# description: "A Jekyll site with a customized minimal theme"
 email: "kim.byunguk@snu.ac.kr"
 affiliation: "Seoul National University"
 github_link: "https://github.com/Bkim-git"
