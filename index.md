@@ -8,9 +8,9 @@ title: "Home"
 - Lauguage: English, Korean, Python
 
 ## Educational background
-- Mar., 2022 – Present  PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
-- Mar., 2020 – Feb., 2022  MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
-- Mar., 2012 – Aug., 2019  BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
+- (Mar., 2022 – Present)  PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
+- (Mar., 2020 – Feb., 2022)  MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
+- (Mar., 2012 – Aug., 2019)  BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
 - [S12] Lee, M., Park, Y.S.*, Noh, H., **Kim, B.**, Baek, S.J. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
@@ -37,15 +37,15 @@ river confluence. Journal of Hydro-environment Research, 56, 1-15 [Link]
 - [D01] **Kim, B.**, Seo, I. W.*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. Journal of Korea Water Resources Association, 54(5), 335-345.  [Link]
 
 ## Awards
-- May, 2024            Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), Republic of Korea 
-- Oct. 2023             Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, Republic of Korea 
-- Oct. 2023             Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, Republic of Korea 
-- Sep. 2023		          NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, Republic of Korea
-- Feb. 2023             Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, Republic of Korea 
-- Oct. 2022             Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
-- Jun. 2022             1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, Republic of Korea 
-- Apr. 2022             2022 KPHA Scholarship, Korean Ports & Harbours Association, Republic of Korea 
-- Jun. 2021             Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
-- Oct. 2020             Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
-- Jun. 2020             Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
+- (May, 2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), Republic of Korea 
+- (Oct. 2023)  Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, Republic of Korea 
+- (Oct. 2023)  Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, Republic of Korea 
+- (Sep. 2023)  NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, Republic of Korea
+- (Feb. 2023)  Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, Republic of Korea 
+- (Oct. 2022)  Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
+- (Jun. 2022)  1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, Republic of Korea 
+- (Apr. 2022)  2022 KPHA Scholarship, Korean Ports & Harbours Association, Republic of Korea 
+- (Jun. 2021)  Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
+- (Oct. 2020)  Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
+- (Jun. 2020)  Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
 
