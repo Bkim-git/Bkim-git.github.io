@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: page
 title: "Blog"
 permalink: /blog/
 ---
 
-
-📝 Welcome to my blog. Here are the latest posts:
+📝 Welcome to my blog! Here are my recent posts:
 
 <ul>
   {% for post in site.posts %}
