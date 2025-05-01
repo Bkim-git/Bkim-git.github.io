@@ -1,16 +1,10 @@
 ---
 layout: default
-title: "Welcome to My Research Blog"
+title: "DfW algorithm - Release note"
 ---
 
-## Welcome to My Blog! 👋
 
-This is my very first blog post.
+## 24 March 2025
+Initial release of DfW algorithm (DfW v1.00)
 
-I'll be using this space to share research updates on:
-- Coastal wave field analysis
-- Depth inversion using drone-acquired wave videos
-- Mode decomposition techniques (FFT, DMD, EMD)
-- Coding tips and workflows
 
-Stay tuned!
