@@ -32,10 +32,11 @@
         {% endif %}
 
         <!-- 🔸 Profile Picture -->
-        <div style="text-align: center; margin-bottom: 20px;">
-          <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile Picture" style="width: 200px; border-radius: 0; border: 0px solid #ccc;">
+        <div style="margin-bottom: 20px;">
+          <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile Picture"
+               style="width: 100px;display: block;">
         </div>
-        
+              
         <!-- 🔸 Navigation Links -->
         <nav style="margin-top: 20px; line-height: 1.0;">
           {% for item in site.nav %}
