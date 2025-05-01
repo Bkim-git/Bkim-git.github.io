@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-## About me
+## About Me
 - Name: Byunguk Kim
 - Position: PhD candidate
 - Affiliation: Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea
@@ -10,7 +10,7 @@ title: "Home"
 - Lauguage: English, Korean, Python
 - Recent interest: Remote sensing of coastal processes
 
-## Educational background
+## Educational Background
 - March, 2022 – Present  
   PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
 - March, 2020 – February, 2022  
