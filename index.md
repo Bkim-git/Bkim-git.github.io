@@ -19,12 +19,10 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-
-- [S13] Jeong, W., Park, Y.S.\*,  **Kim, B.**, & Baek, S. (Pending) Experimental study of tracer concentration profile in backward erosion piping. *Journal of Hydro-environment Research* [[Link]](https://doi.org/10.1016/j.jher.2023.123456)
 - [S13] **Kim, B.**, Park, Y.S.\* (In progress) Comparative Study of Mode Decomposition Techniques for Identifying Significant Wave Properties from Wave Field Videos.
 - [S12] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (In progress) Nonlinearity-Corrected Depth Inversion using Drone Imagery in Irregular Tidal Flat: Study of Byeonsan Beach, South Korea.
 - [S11] Lee, M., Park, Y.S.\*, **Kim, B.**, Choi, J., Lee, H., Lee, M., & Noh, H. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
-- [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S.J. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
+- [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
 - [S09] **Kim, B.**, Park, Y.S.\*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. *Coastal Engineering Journal*, 1-13. [[Link]](https://doi.org/10.1080/21664250.2025.2469957)
 - [S08] Lee, M., Park, Y.S.\*, Ko, J.S., Choi, S., Lyu, S., &  **Kim, B.** (2024) The influence of density difference, discharge ratio and wind on the mixing at large river confluence. *Journal of Hydro-environment Research*, 56, 1-15 [[Link]](https://doi.org/10.1016/j.jher.2024.06.001)
 - [S07] Kwon, S., Seo, I.W.\*, **Kim, B.**, Jung, S.H., & Kim, Y. D. (2024) Assessment of river recreation safety using hydrodynamic model and fuzzy logic: A spatial river recreational index approach. *Journal of Hydro-environment Research*, 55, 30-45. [[Link]](https://doi.org/10.1016/j.jher.2024.06.002)
