@@ -8,7 +8,7 @@ title: "Home"
 - Affiliation: Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea
 - Major: Coastal Engineering
 - Lauguage: English, Korean, Python
-- Subjects: Remote sensing of coastal processes
+- Recent interest: Remote sensing of coastal processes
 
 ## Educational background
 - March, 2022 – Present  
