@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "DfW algorithm - Release note"
+title: "DfW Algorithm – Release Note"
 ---
 
+## Release Notes
 
-
-## [24 March 2025](10.5281/zenodo.15075314​)
-Initial release of DfW algorithm (DfW v1.0)
-Zenodo: 10.5281/zenodo.15075314​
+### 2025-03-24 – [DfW v1.0](https://doi.org/10.5281/zenodo.15075314)
+- Initial release of the DfW algorithm.
