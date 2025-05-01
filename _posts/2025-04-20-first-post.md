@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DfW Algorithm – Release Note"
+title: "DfW Algorithm – Release Notes"
 ---
 
 ## Release Notes
