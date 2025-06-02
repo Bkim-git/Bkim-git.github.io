@@ -19,7 +19,6 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-- [S13] **Kim, B.**, Park, Y.S.\* (In progress) Comparative Study of Mode Decomposition Techniques for Identifying Significant Wave Properties from Wave Field Videos.
 - [S12] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (In progress) Nonlinearity-Corrected Depth Inversion using Drone Imagery in Irregular Tidal Flat: Study of Byeonsan Beach, South Korea.
 - [S11] Lee, M., Park, Y.S.\*, **Kim, B.**, Choi, J., Lee, H., Lee, M., & Noh, H. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
 - [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
