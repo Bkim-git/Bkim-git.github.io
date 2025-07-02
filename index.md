@@ -19,7 +19,7 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-- [S12] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (Published) Nonlinearity-Corrected Depth Inversion using Drone Imagery in Irregular Tidal Flat: Study of Byeonsan Beach, South Korea, *Journal of Geophysical Research: Oceans*.
+- [S12] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (Published) Nonlinearity-Corrected Depth Inversion using UAV Imagery in Irregular Tidal Flat: Study of Byeonsan Beach, South Korea, *Journal of Geophysical Research: Oceans*.
 - [S11] Lee, M., Park, Y.S.\*, **Kim, B.**, Choi, J., Lee, H., Lee, M., & Noh, H. (In progress) Estimation of organic matter and nutrients through analysis of the relationship between suspended solid and water quality factors.
 - [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
 - [S09] **Kim, B.**, Park, Y.S.\*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. *Coastal Engineering Journal*, 1-13. [[Link]](https://doi.org/10.1080/21664250.2025.2469957)
