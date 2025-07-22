@@ -6,7 +6,7 @@ title: "DfW Algorithm – Release Notes"
 ## Release Notes
 
 
-### 24 March 2025 – [DfW v1.1](https://doi.org/10.5281/zenodo.15861158)
+### 11 Julu 2025 – [DfW v1.1](https://doi.org/10.5281/zenodo.15861158)
 - **Input Video Format Update**  
   The required input video format has been updated from a compressed NumPy archive (`*.npz`) to standard video formats such as `*.mov` or `*.mp4`.
 
