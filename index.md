@@ -19,7 +19,7 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-- [S13] Noh, H., **Kim, B.**, Park, Y.S.\*, Chun, S.Y., Baek, S., & Hur, J. (Under review) Stereo Wave Analysis in Surf-Swash Zone using Multiple Image Sources, *Coastal Engineering*.
+- [S13] Noh, H., **Kim, B.**, Park, Y.S.\*, Chun, S.Y., Baek, S., & Hur, J. (In preperation) Stereo Wave Analysis in Surf-Swash Zone using Multiple Image Sources.
 - [S12] **Kim, B.**, Park, Y.S.\*, Baek, S., & Hur, J. (Under review) Comparative Study of Mode Decomposition Techniques for Video-Derived Surface Wave Analysis, *Ocean Engineering*. 
 - [S11] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (Under review) Nonlinearity-Corrected Depth Inversion using UAV Imagery in Irregular Tidal Flat: Study of Byeonsan Beach, South Korea, *Coastal Engineering*.
 - [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
