@@ -19,9 +19,11 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-- [S13] Noh, H., **Kim, B.**, Park, Y.S.\*, Chun, S.Y., Baek, S., & Hur, J. (In preperation) Stereo Wave Analysis in Surf-Swash Zone using Multiple Image Sources.
-- [S12] **Kim, B.**, Park, Y.S.\*, Baek, S., & Hur, J. (Under review) Comparative Study of Mode Decomposition Techniques for Video-Derived Surface Wave Analysis, *Ocean Engineering*. 
-- [S11] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (Under review) Nonlinearity-Corrected Depth Inversion using UAV Imagery in Irregular Tidal Flat: Study of Byeonsan Beach, South Korea, *Coastal Engineering*.
+- [S15] Noh, H., **Kim, B.**, Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, Coastal Engineering.
+- [S14] **Kim, B.** and Park, Y.S.* (in preparation) Applying a Nonlinear Depth Inversion coupled with SWAN for Shoaling–Breaking Waves across Contrasting Wave-Energy Conditions, Journal of Geophysical Research: Oceans.
+- [S13] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
+- [S12] **Kim, B.**, Park, Y.S.\*, Baek, S., & Hur, J. (In preperation) Comparative Study of Mode Decomposition Techniques for Video-Derived Surface Wave Analysis, *Coastal Engineering*. 
+- [S11] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (Under review) Nonlinearity-Corrected Kinematic Depth Inversion using Drone Imagery in Irregular Tidal Flat: A Study of Byeonsan Beach, South Korea. *Coastal Engineering*, 204, 104904. [[Link]](https://doi.org/10.1016/j.coastaleng.2025.104904)
 - [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
 - [S09] **Kim, B.**, Park, Y.S.\*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. *Coastal Engineering Journal*, 1-13. [[Link]](https://doi.org/10.1080/21664250.2025.2469957)
 - [S08] Lee, M., Park, Y.S.\*, Ko, J.S., Choi, S., Lyu, S., &  **Kim, B.** (2024) The influence of density difference, discharge ratio and wind on the mixing at large river confluence. *Journal of Hydro-environment Research*, 56, 1-15 [[Link]](https://doi.org/10.1016/j.jher.2024.06.001)
