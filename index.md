@@ -6,12 +6,12 @@ title: "Home"
 - Name: Byunguk Kim
 - Position: PhD candidate
 - Affiliation: Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea
-- Major: Coastal Engineering
+- Major: Hydraulics, Coastal Engineering
 - Lauguage: English, Korean, Python
 - Recent interest: Remote sensing of coastal processes
 
 ## Educational Background
-- *March, 2022 – Present*
+- *March, 2022 – February 2026*
   PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
 - *March, 2020 – February, 2022*
   MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
@@ -19,10 +19,10 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Publications - SCI(E) indexed Journals
-- [S15] Noh, H., **Kim, B.**, Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, Coastal Engineering.
-- [S14] **Kim, B.** and Park, Y.S.* (in preparation) Applying a Nonlinear Depth Inversion coupled with SWAN for Shoaling–Breaking Waves across Contrasting Wave-Energy Conditions, Journal of Geophysical Research: Oceans.
-- [S13] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
-- [S12] **Kim, B.**, Park, Y.S.\*, Baek, S., & Hur, J. (In preperation) Comparative Study of Mode Decomposition Techniques for Video-Derived Surface Wave Analysis, *Coastal Engineering*. 
+- [S15] Noh, H., Kim, B., Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
+- [S14] Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
+- [S13] Kim, B., Park, Y.S.*, Baek, S., & Hur, J. (under review) A Comparative Study of Mode Decomposition Techniques applied to Video-Based Depth Inversion, *Coastal Engineering*.
+- [S12] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
 - [S11] **Kim, B.**, Park, Y.S.\*, Noh, H., & Baek S. (2026) Nonlinearity-Corrected Kinematic Depth Inversion using Drone Imagery in Irregular Tidal Flat: A Study of Byeonsan Beach, South Korea. *Coastal Engineering*, 204, 104904. [[Link]](https://doi.org/10.1016/j.coastaleng.2025.104904)
 - [S10] Lee, M., Park, Y.S.\*, Noh, H., **Kim, B.**, & Baek, S. (2025) Estimation of Roughness Height on Oyster Reefs.  *Journal of Geophysical Research: Oceans*., 130(4), e2024JC021888. [[Link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021888?af=R)
 - [S09] **Kim, B.**, Park, Y.S.\*, Noh, H., & Lee, M. (2025) Improving Accuracy of Image-Based Depth Inversion with an Adaptive Window Optimization. *Coastal Engineering Journal*, 1-13. [[Link]](https://doi.org/10.1080/21664250.2025.2469957)
