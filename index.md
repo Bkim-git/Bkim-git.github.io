@@ -56,15 +56,16 @@ title: "Home"
 
   
 ## Awards
-- (May, 2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), Republic of Korea 
-- (Oct. 2023)  Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, Republic of Korea 
-- (Oct. 2023)  Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, Republic of Korea 
-- (Sep. 2023)  NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, Republic of Korea
-- (Feb. 2023)  Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, Republic of Korea 
-- (Oct. 2022)  Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
-- (Jun. 2022)  1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, Republic of Korea 
-- (Apr. 2022)  2022 KPHA Scholarship, Korean Ports & Harbours Association, Republic of Korea 
-- (Jun. 2021)  Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
-- (Oct. 2020)  Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, Republic of Korea 
-- (Jun. 2020)  Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, Republic of Korea 
+- (Oct. 2024)  2025 KSCOE Scholarship, Korean Society of Coastal and Ocean Engineers (KSCOE), South Korea
+- (May  2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), South Korea
+- (Oct. 2023)  Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, 
+- (Oct. 2023)  Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, South Korea
+- (Sep. 2023)  NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, South Korea
+- (Feb. 2023)  Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, South Korea 
+- (Oct. 2022)  Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, South Korea 
+- (Jun. 2022)  1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, South Korea 
+- (Apr. 2022)  2022 KPHA Scholarship, Korean Ports & Harbours Association, South Korea 
+- (Jun. 2021)  Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
+- (Oct. 2020)  Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, South Korea 
+- (Jun. 2020)  Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
 
