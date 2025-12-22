@@ -11,12 +11,18 @@ title: "Home"
 - Recent interest: Remote sensing of coastal processes
 
 ## Educational Background
-- *March, 2022 – February 2026*
+- *March 2022 – February 2026*
   PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Park)
-- *March, 2020 – February, 2022*
+- *March 2020 – February 2022*
   MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
-- *March, 2012 – August, 2019*
+- *March 2012 – August 2019*
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
+
+## Professional Experiences
+- *September, 2019 – Present*
+  Research Assistant, Department of Civil & Environmental Engineering, Seoul National University, South Korea
+- *September, 2023 – August 2025*
+  NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
 - [S15] Noh, H., Kim, B., Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
