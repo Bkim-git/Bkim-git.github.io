@@ -12,14 +12,11 @@ title: "Home"
 
 ## Educational Background
 - *March 2022 – February 2026*
-  
-  **PhD**, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Parl; Thesis title: Development of Adaptive Kinematic Depth Inversion Algorithm for Nearshore Bathymetry Mapping)
+  PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Parl; Thesis title: Development of Adaptive Kinematic Depth Inversion Algorithm for Nearshore Bathymetry Mapping)
 - *March 2020 – February 2022*
-  
-  **MS**, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
+  MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
 - *March 2012 – August 2019*
-  
-  **BS**,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
+  BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Professional Experiences
 - *September, 2019 – Present*
