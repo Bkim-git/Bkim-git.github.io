@@ -10,7 +10,7 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  Drone-aquiared wave field videos and bathymetry data
+###  JS Beach campaign (30 Oct. 30th -- 1 Nov. 2022)
 - **Description**: Drone-acquired wave field videos and bathymetry survey data during the field campaign in Jangsa Beach, South Korea.
 - **Size**: 9.45 GB
 - **File Types**: `.mp4`, `.csv`
