@@ -16,7 +16,9 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.npy` (pickled Python objects)
 - **Last update**:	15 November 2025
 - **Link**: [Zenodo](https://doi.org/10.5281/zenodo.17618554)
-- **Related paper**: Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
+- **Related paper**:
+
+  Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 
 ---
 
@@ -26,7 +28,9 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.mov`, `.tif`
 - **Last update**:	11 July 2025
 - **Link**: [Zenodo](https://doi.org/10.5281/zenodo.15861592)
-- **Related paper**: Kim, B., Park, Y.S.*, Noh, H., & Baek S. (2026) Nonlinearity-Corrected Kinematic Depth Inversion using Drone Imagery in Irregular Tidal Flat: A Study of Byeonsan Beach, South Korea. *Coastal Engineering*, 204, 104904.
+- **Related paper**:
+
+  Kim, B., Park, Y.S.*, Noh, H., & Baek S. (2026) Nonlinearity-Corrected Kinematic Depth Inversion using Drone Imagery in Irregular Tidal Flat: A Study of Byeonsan Beach, South Korea. *Coastal Engineering*, 204, 104904.
 
 ---
 
@@ -36,7 +40,9 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.mp4`, `.csv`
 - **Last update**:	7 March 2023
 - **Link**: [Mendeley data](https://data.mendeley.com/datasets/ch5fb6f9zd/1)
-- **Related paper**: Kim, B., Noh, H., Park, Y. S., & Lee, M. (2023). Non-spectral linear depth inversion using drone-acquired wave field imagery. Applied Ocean Research, 138, 103625.
+- **Related paper**:
+
+  Kim, B., Noh, H., Park, Y. S., & Lee, M. (2023). Non-spectral linear depth inversion using drone-acquired wave field imagery. Applied Ocean Research, 138, 103625.
   
 ---
 
