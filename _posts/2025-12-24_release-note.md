@@ -5,7 +5,7 @@ date: 2025-12-24
 
 ## Release Notes
 
-### 24 December 2025 – [DfW v1.2](https://github.com/Bkim-git/DfW-algorithm)
+### 24 December 2025 – [[DfW v1.2]](https://github.com/Bkim-git/DfW-algorithm)
 
 - **Parallelization Redesign**  
   The depth inversion workflow has been fundamentally restructured to support true process-level parallelism.  
