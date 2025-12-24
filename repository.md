@@ -10,17 +10,17 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  BS Beach campaign during 13–14 December 2024
+###  BS Beach campaign conducted on 13–14 December 2024
 - **Description**: Preprocessed wave field videos, bathymetry survey data, and in-situ pressure gauge data during the field campaign in Mallipo Beach, South Korea.
 - **Size**: 10.32 GB
 - **File Types**: `.npy` (pickled Python objects)
-- **Last update**:	15 November 2025-11-15
+- **Last update**:	15 November 2025
 - **Link**: [Zenodo](https://doi.org/10.5281/zenodo.17618554)
 - **Related paper**: Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 
 ---
 
-###  JS Beach campaign during 30 Oct. 30th - 1 Nov. 2022)
+###  JS Beach campaign conducted on 30 Oct. 30th - 1 Nov. 2022
 - **Description**: Drone-acquired wave field videos and bathymetry survey data during the field campaign in Jangsa Beach, South Korea.
 - **Size**: 9.45 GB
 - **File Types**: `.mp4`, `.csv`
