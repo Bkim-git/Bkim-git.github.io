@@ -16,7 +16,7 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.npy` (pickled Python objects)
 - **Last update**:	15 November 2025
 - **Link**: [Zenodo](https://doi.org/10.5281/zenodo.17618554)
-- **Related paper**: **Kim, B**. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
+- **Related paper**: Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 
 ---
 
@@ -26,7 +26,7 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.mov`, `.tif`
 - **Last update**:	11 July 2025
 - **Link**: [Zenodo](https://doi.org/10.5281/zenodo.15861592)
-- **Related paper**: **Kim, B.**, Park, Y.S.*, Noh, H., & Baek S. (2026) Nonlinearity-Corrected Kinematic Depth Inversion using Drone Imagery in Irregular Tidal Flat: A Study of Byeonsan Beach, South Korea. *Coastal Engineering*, 204, 104904.
+- **Related paper**: Kim, B., Park, Y.S.*, Noh, H., & Baek S. (2026) Nonlinearity-Corrected Kinematic Depth Inversion using Drone Imagery in Irregular Tidal Flat: A Study of Byeonsan Beach, South Korea. *Coastal Engineering*, 204, 104904.
 
 ---
 
@@ -36,7 +36,7 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.mp4`, `.csv`
 - **Last update**:	7 March 2023
 - **Link**: [Mendeley data](https://data.mendeley.com/datasets/ch5fb6f9zd/1)
-- **Related paper**: **Kim, B.**, Noh, H., Park, Y. S., & Lee, M. (2023). Non-spectral linear depth inversion using drone-acquired wave field imagery. Applied Ocean Research, 138, 103625.
+- **Related paper**: Kim, B., Noh, H., Park, Y. S., & Lee, M. (2023). Non-spectral linear depth inversion using drone-acquired wave field imagery. Applied Ocean Research, 138, 103625.
   
 ---
 
@@ -47,8 +47,9 @@ This page contains links to datasets, models, and supplementary material related
 - **Last update**:	22 March 2022
 - **Link**: [Mendeley data](https://data.mendeley.com/preview/62bfsbd3bj?a=bd8b9f0b-9b24-41cf-9f52-d22f2935d193)
 - **Related paper**:
-  **Kim, B.**, Kwon, S., Noh, H., & Seo, I. W. (2022). Surrogate prediction of the breakthrough curve of solute transport in rivers using its reach length dependence. Journal of Contaminant Hydrology, 249, 104024.
-  **Kim, B.**, Seo, I. W., Kwon, S., & Baek, D. (2023). Estimating net retention time of solute in storage zones of a stream. Water Resources Research, 59(5), e2022WR032243.
+  Kim, B., Kwon, S., Noh, H., & Seo, I. W. (2022). Surrogate prediction of the breakthrough curve of solute transport in rivers using its reach length dependence. Journal of Contaminant Hydrology, 249, 104024.
+  Kim, B., Seo, I. W., Kwon, S., & Baek, D. (2023). Estimating net retention time of solute in storage zones of a stream. Water Resources Research, 59(5), e2022WR032243.
+  
 ---
 
 
