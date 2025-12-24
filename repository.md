@@ -10,7 +10,7 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  BS Beach campaign conducted on 13–14 December 2024
+###  MLP Beach campaign conducted on 13–14 December 2024
 - **Description**: Preprocessed wave field videos, bathymetry survey data, and in-situ pressure gauge data during the field campaign in Mallipo Beach, South Korea.
 - **Size**: 10.32 GB
 - **File Types**: `.npy` (pickled Python objects)
