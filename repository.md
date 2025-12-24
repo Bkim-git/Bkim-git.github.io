@@ -6,7 +6,7 @@ permalink: /repository/
 
 ## 📦 Data Repository
 
-This page contains links to datasets, models, and supplementary material related to my research in coastal engineering, wave field analysis, and image-based bathymetry estimation.
+This page contains links to datasets, models, and supplementary material related to my researches.
 
 ---
 
