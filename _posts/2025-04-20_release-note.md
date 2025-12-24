@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: post
 title: "DfW Algorithm – Release Notes"
+date: 2025-04-20
+categories: blog
 ---
 
 ## Release Notes
