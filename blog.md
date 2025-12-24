@@ -6,7 +6,7 @@ permalink: /blog/
 
 ## 📝 Welcome to My Blog
 
-Here you'll find updates on my research, fieldwork, and thoughts on coastal engineering, wave analysis, and beyond.
+
 
 ---
 
