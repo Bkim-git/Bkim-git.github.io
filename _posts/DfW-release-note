@@ -19,11 +19,7 @@ title: "DfW Algorithm – Release Notes"
   To avoid nested parallelism and performance instability, BLAS and MKL internal threading are explicitly disabled (single-threaded execution), ensuring reproducible runtime behavior when combined with process-based parallelism.
 
 - **Parallel-Safe Refactoring of Core Routines**  
-  Core routines in `modules_v2` have been refactored to be stateless and shared-memory–friendly, enabling safe parallel execution without side effects or race conditions.
-
-- **Improved Scalability for Large Domains**  
-  The updated parallel architecture allows stable processing of larger spatial domains and longer videos, which were previously constrained by memory duplication and serialization overhead in v1.
-
+  Core routines in `modules` have been refactored to be stateless and shared-memory–friendly, enabling safe parallel execution without side effects or race conditions.
 
 ### 11 Julu 2025 – [DfW v1.1](https://doi.org/10.5281/zenodo.15861158)
 - **Input Video Format Update**  
