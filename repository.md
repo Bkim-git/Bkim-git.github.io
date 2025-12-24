@@ -10,7 +10,17 @@ This page contains links to datasets, models, and supplementary material related
 
 ---
 
-###  JS Beach campaign (30 Oct. 30th - 1 Nov. 2022)
+###  BS Beach campaign during 13–14 December 2024
+- **Description**: Preprocessed wave field videos, bathymetry survey data, and in-situ pressure gauge data during the field campaign in Mallipo Beach, South Korea.
+- **Size**: 10.32 GB
+- **File Types**: `.npy` (pickled Python objects)
+- **Last update**:	15 November 2025-11-15
+- **Link**: [Zenodo](https://doi.org/10.5281/zenodo.17618554)
+- **Related paper**: Kim, B., Noh, H., Park, Y. S., & Lee, M. (2023). Non-spectral linear depth inversion using drone-acquired wave field imagery. Applied Ocean Research, 138, 103625.
+
+---
+
+###  JS Beach campaign during 30 Oct. 30th - 1 Nov. 2022)
 - **Description**: Drone-acquired wave field videos and bathymetry survey data during the field campaign in Jangsa Beach, South Korea.
 - **Size**: 9.45 GB
 - **File Types**: `.mp4`, `.csv`
