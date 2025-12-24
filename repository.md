@@ -16,7 +16,7 @@ This page contains links to datasets, models, and supplementary material related
 - **File Types**: `.npy` (pickled Python objects)
 - **Last update**:	15 November 2025-11-15
 - **Link**: [Zenodo](https://doi.org/10.5281/zenodo.17618554)
-- **Related paper**: Kim, B., Noh, H., Park, Y. S., & Lee, M. (2023). Non-spectral linear depth inversion using drone-acquired wave field imagery. Applied Ocean Research, 138, 103625.
+- **Related paper**: Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 
 ---
 
