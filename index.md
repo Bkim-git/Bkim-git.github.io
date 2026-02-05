@@ -28,7 +28,7 @@ title: "Home"
 <p style="text-align:right;"><small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small></p>
 
 - [S16] Noh, H., Kim, B., Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
-- [S15] Park, Y.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Seo, I.W., Baek, S, & Cho, S.-K. (submitted) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Water Resesarch*.
+- [S15] Park, Y.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Seo, I.W., Baek, S, & Cho, S.-K.* (submitted) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Water Resesarch*.
 - [S14] Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 - [S13] Kim, B., Park, Y.S.*, Baek, S., & Hur, J. (under review) A Comparative Study of Mode Decomposition Techniques applied to Video-Based Depth Inversion, *Coastal Engineering*.
 - [S12] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
