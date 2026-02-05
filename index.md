@@ -42,6 +42,8 @@ title: "Home"
 - [S02] Kwon, S., Seo, I. W.\*, Noh, H., & **Kim, B.** (2022). Hyperspectral retrievals of suspended sediment using cluster-based machine learning regression in shallow waters. *Science of the Total Environment*, 155168. [[Link]](https://www.sciencedirect.com/science/article/pii/S0048969722022616)
 - [S01] **Kim, B.**, Seo, I. W.\*, Kwon, S., Jung, S. H., & Choi, Y. (2021). Modelling one-dimensional reactive transport of toxic contaminants in natural rivers. *Environmental Modelling & Software*, 104971. [[Link]](https://www.sciencedirect.com/science/article/pii/S1364815221000141)
 
+† These authors contributed equally as co-first authors.
+* Corresponding author.
 
 ## Publications - Domestic Journals
 - [D06] Noh, H., **Kim, B.**, Park, Y.S.\*, Lee, M., (Under review)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, *Journal of Korea Society of Coastal and Ocean Engineers*, 37(1), 1-14 [[Link]](https://doi.org/10.9765/KSCOE.2025.37.1.1)
