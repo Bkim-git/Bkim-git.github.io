@@ -33,7 +33,7 @@ title: "Home"
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
-<div style="text-align:right; margin:-5px 0 5px 0; line-height:1.0;">
+<div style="text-align:right; margin:-10px 0 5px 0; line-height:1.0;">
   <small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small>
 </div>
 
@@ -56,6 +56,10 @@ title: "Home"
 
 
 ## Publications - Domestic Journals
+<div style="text-align:right; margin:-10px 0 5px 0; line-height:1.0;">
+  <small>&#42; Corresponding author &nbsp;&nbsp</small>
+</div>
+
 - [D06] Noh, H., **Kim, B.**, Park, Y.S.\*, Lee, M., (2025)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, *Journal of Korea Society of Coastal and Ocean Engineers*, 37(1), 1-14 [[Link]](https://doi.org/10.9765/KSCOE.2025.37.1.1)
 - [D05] **Kim, B.**, Seo, I.W.\*, Kim, J.S., Noh, H. (2024)  A Review of Transient Storage Modeling for Analyzing One-Dimensional Non-Fickian Solute Transport in Rivers, *Journal of Korea Water Resources Association*, 57(4), 263-276 [[Link]](https://jkwra.or.kr/articles/article/L2yR/)
 - [D04] Noh, H., **Kim, B.**, Lee, M., Park, Y.S.\*, Bang, K.Y., & Yoo, H. (2022) Survey of coastal topography using a UAV, *Journal of Korea Water Resources Association*, 56(S-1), 1027-1036. [[Link]](https://www.kwra.or.kr/publication/p-journal/list2/2023/%ED%95%9C%EA%B5%AD%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C%EB%85%BC%EB%AC%B8%EC%A7%91%20%ED%8A%B9%EC%A7%91%ED%98%B8/Vol.%2056%20No.%20S-1/)
