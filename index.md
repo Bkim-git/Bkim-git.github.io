@@ -3,13 +3,6 @@ layout: default
 title: "Home"
 ---
 ## About Me
-- Name: Byunguk Kim
-- Position: PhD candidate
-- Affiliation: Department of Civil & Environmental Engineering, Seoul National University, Seoul, South Korea
-- Major: Hydraulics, Coastal Engineering
-- Lauguage: English, Korean, Python
-- Research interest: *Enhancing Nearshore Process Predictability through Advanced Remote Sensing and Theoretically Rigorous Interpretation*
-
 - **Name**: Byunguk Kim  
 - **Position**: PhD Candidate  
 - **Affiliation**: Department of Civil and Environmental Engineering,  
