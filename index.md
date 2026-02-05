@@ -25,7 +25,7 @@ title: "Home"
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
-<small>† Co-first authors     /* Corresponding author.</small>
+<small>/* Corresponding author   † Co-first authors</small>
 - [S16] Noh, H., Kim, B., Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
 - [S15] Park, Y.†, **Kim, B.†**, Seo, I.W., Baek, S, & Cho, S.-K. (submitted) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Water Resesarch*.
 - [S14] Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
