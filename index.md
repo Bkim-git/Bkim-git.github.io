@@ -25,7 +25,7 @@ title: "Home"
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
-<div style="text-align:right; margin:0.3; padding:0; line-height:0.5;">
+<div style="text-align:right; margin:1.0; padding:0; line-height:1.0;">
   <small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small>
 </div>
 
