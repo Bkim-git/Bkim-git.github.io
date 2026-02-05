@@ -10,6 +10,14 @@ title: "Home"
 - Lauguage: English, Korean, Python
 - Research interest: *Enhancing Nearshore Process Predictability through Advanced Remote Sensing and Theoretically Rigorous Interpretation*
 
+- **Name**: Byunguk Kim  
+- **Position**: PhD Candidate  
+- **Affiliation**: Department of Civil and Environmental Engineering,  
+  Seoul National University, Seoul, South Korea  
+- **Research Area**: Hydraulics and Coastal Engineering  
+- **Languages**: English, Korean, Python  
+- **Research Interests**: *Enhancing nearshore process predictability through advanced remote sensing and theoretically rigorous interpretation*
+
 ## Educational Background
 - *March 2022 – February 2026*
   PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Parl; Thesis title: Development of Adaptive Kinematic Depth Inversion Algorithm for Nearshore Bathymetry Mapping)
