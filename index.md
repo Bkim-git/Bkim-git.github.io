@@ -66,11 +66,6 @@ title: "Home"
 - [D03] Jeong, W., **Kim, B.**, Seo, I. W.\*, & Park, Y. S. (2022) Detecting Backward Erosion Piping Using a Tracer, Journal of Civil and Environmental Engineering Research, 43(1), 55-62. [[Link]](http://journal.auric.kr/jksce/ArticleDetail/RD_R/420464)
 - [D02] Jung, S.H., Seo, I. W.\*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. *Journal of the Korean Society of Hazard Mitigation*, 22(6), 551-561. [[Link]](https://www.j-kosham.or.kr/journal/view.php?doi=10.9798/KOSHAM.2022.22.6.351)
 - [D01] **Kim, B.**, Seo, I. W.\*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. *Journal of Korea Water Resources Association*, 54(5), 335-345. [[Link]](https://jkwra.or.kr/articles/xml/0KW8/)
-
-<div style="text-align: right;">
-\* Corresponding author
-</div>
-
   
 ## Awards
 - (Oct. 2024)  2025 KSCOE Scholarship, Korean Society of Coastal and Ocean Engineers (KSCOE), South Korea
