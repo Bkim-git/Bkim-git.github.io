@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 ## About Me
-- **Name**: Byunguk Kim  
+- **Name**: Byunguk Kim
 - **Position**: PhD Candidate  
 - **Affiliation**: Department of Civil and Environmental Engineering,  
   Seoul National University, Seoul, South Korea  
