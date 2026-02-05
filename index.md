@@ -50,7 +50,7 @@ title: "Home"
 
 ## Publications - Domestic Journals
 <div style="text-align:right; margin:-13px 0 5px 0; line-height:1.0;">
-  <small>&#42; Corresponding author &nbsp</small>
+  <small>&#42; Corresponding author</small>
 </div>
 
 - [D06] Noh, H., **Kim, B.**, Park, Y.S.\*, Lee, M., (2025)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, *Journal of Korea Society of Coastal and Ocean Engineers*, 37(1), 1-14 [[Link]](https://doi.org/10.9765/KSCOE.2025.37.1.1)
