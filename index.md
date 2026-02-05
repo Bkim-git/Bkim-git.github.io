@@ -25,6 +25,7 @@ title: "Home"
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
+<small>† Co-first authors     /* Corresponding author.</small>
 - [S16] Noh, H., Kim, B., Park, Y.S.*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
 - [S15] Park, Y.†, **Kim, B.†**, Seo, I.W., Baek, S, & Cho, S.-K. (submitted) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Water Resesarch*.
 - [S14] Kim, B. Park, Y.S.*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
@@ -41,9 +42,6 @@ title: "Home"
 - [S03] **Kim, B.**, Kwon, S., Noh, H., & Seo, I. W.\* (2022) Surrogate prediction of breakthrough curve in streams using its reach length dependence. *Journal of Contaminant Hydrology*, 249(104024). [[Link]](https://www.sciencedirect.com/science/article/pii/S0169772222000729)
 - [S02] Kwon, S., Seo, I. W.\*, Noh, H., & **Kim, B.** (2022). Hyperspectral retrievals of suspended sediment using cluster-based machine learning regression in shallow waters. *Science of the Total Environment*, 155168. [[Link]](https://www.sciencedirect.com/science/article/pii/S0048969722022616)
 - [S01] **Kim, B.**, Seo, I. W.\*, Kwon, S., Jung, S. H., & Choi, Y. (2021). Modelling one-dimensional reactive transport of toxic contaminants in natural rivers. *Environmental Modelling & Software*, 104971. [[Link]](https://www.sciencedirect.com/science/article/pii/S1364815221000141)
-
-<small>† Co-first authors.
-* Corresponding author.</small>
 
 ## Publications - Domestic Journals
 - [D06] Noh, H., **Kim, B.**, Park, Y.S.\*, Lee, M., (Under review)  Enhancing Efficiency while Maintaining Accuracy in Repeated Coastal Drone Monitoring through the Use of Fixed Structures as Ground Control Points, *Journal of Korea Society of Coastal and Ocean Engineers*, 37(1), 1-14 [[Link]](https://doi.org/10.9765/KSCOE.2025.37.1.1)
