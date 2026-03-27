@@ -4,9 +4,8 @@ title: "Home"
 ---
 ## About Me
 - **Name**: Byunguk Kim
-- **Position**: PhD Candidate  
-- **Affiliation**: Department of Civil and Environmental Engineering,  
-  Seoul National University, Seoul, South Korea  
+- **Position**: Postdoctoral Researcher
+- **Affiliation**: UMR 7266 LIENSs, CNRS - La Rochelle Université
 - **Research Area**: Hydraulics and Coastal Engineering  
 - **Languages**: English, Korean, Python  
 - **Research Interests**: *Enhancing nearshore process predictability through advanced remote sensing and theoretically rigorous interpretation*
@@ -20,9 +19,11 @@ title: "Home"
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Professional Experiences
-- *September, 2019 – Present*
+- *March 2026 – Present*
+  Postdoctoral Researcher, UMR 7266 LIENSs, CNRS - La Rochelle Université, France
+- *September 2019 – February 2026*
   Research Assistant, Department of Civil & Environmental Engineering, Seoul National University, South Korea
-- *September, 2023 – August 2025*
+- *September 2023 – August 2025*
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
