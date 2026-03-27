@@ -11,19 +11,19 @@ title: "Home"
 - **Research Interests**: *Enhancing nearshore process predictability through advanced remote sensing and theoretically rigorous interpretation*
 
 ## Educational Background
-- *March 2022 – February 2026*
+- **March 2022 – February 2026**
   PhD, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Yong Sung Parl; Thesis title: Development of Adaptive Kinematic Depth Inversion Algorithm for Nearshore Bathymetry Mapping)
-- *March 2020 – February 2022*
+- **March 2020 – February 2022**
   MS, Civil and Environmental Engineering, Seoul National University, South Korea (Advisor: Prof. Il Won Seo; Thesis title: Estimation of Net Retention Time of Solute in Storage Zones for Mixing Analysis in Streams)
-- *March 2012 – August 2019*
+- **March 2012 – August 2019**
   BS,  Civil Engineering, Seoul National University of Science and Technology,  South Korea
 
 ## Professional Experiences
-- *March 2026 – Present*
+- **March 2026 – Present**
   Postdoctoral Researcher, UMR 7266 LIENSs, CNRS - La Rochelle Université, France
-- *September 2019 – February 2026*
+- **September 2019 – February 2026**
   Research Assistant, Department of Civil & Environmental Engineering, Seoul National University, South Korea
-- *September 2023 – August 2025*
+- **September 2023 – August 2025**
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
 
 ## Publications - SCI(E) indexed Journals
