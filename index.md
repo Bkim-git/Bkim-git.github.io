@@ -5,7 +5,7 @@ title: "Home"
 ## About Me
 - **Name**: Byunguk Kim
 - **Position**: Postdoctoral Researcher
-- **Affiliation**: UMR 7266 LIENSs, CNRS - La Rochelle Université
+- **Affiliation**: UMR 7266 LIENSs, CNRS - La Rochelle Université, France
 - **Research Area**: Hydraulics and Coastal Engineering  
 - **Languages**: English, Korean, Python  
 - **Research Interests**: *Enhancing nearshore process predictability through advanced remote sensing and theoretically rigorous interpretation*
