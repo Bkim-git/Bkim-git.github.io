@@ -31,9 +31,10 @@ title: "Home"
   <small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small>
 </div>
 
-- [S17] Noh, H., **Kim, B.**, Park, Y.S.\*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
-- [S16] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
-- [S15] Park, Y.<sup>†</sup>, **Kim, B.** <sup>†</sup>, Seo, I.W., Baek, S, & Cho, S.-K.\* (submitted) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Water Resesarch*.
+- [S18] Noh, H., **Kim, B.**, Park, Y.S.\*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
+- [S17] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
+- [S16] Park, Y., Kim, M., Han, U., Lee, T., **Kim, B.**, Jo, H., & Cho, S.-K.\* (under review) Spatial and hydroclimatic variation of microplastic distribution in freshwater environments in South Korea, *Environmental Pollution*.
+- [S15] Park, Y.<sup>†</sup>, **Kim, B.** <sup>†</sup>, Seo, I.W., Baek, S, & Cho, S.-K.\* (under review) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Environmental Pollution*.
 - [S14] Baek, S., Park, Y.S.\*, Jeong, H., & **Kim, B.** (under review) Phase-resolved settling velocity change of inertial particles in surface gravity waves, *Journal of Fluid Mechanics*. 
 - [S13] **Kim, B.**, Park, Y.S.\*, Noh, H., Baek, S., & Hur, J. (under review) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 - [S12] **Kim, B.**, Park, Y.S.\*, Baek, S., & Hur, J. (2026) A Comparative Study of Mode Decomposition Techniques applied to Video-Based Depth Inversion, *Coastal Engineering*, 105042. [[Link]](https://doi.org/10.1016/j.coastaleng.2026.105042)
