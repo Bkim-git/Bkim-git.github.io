@@ -9,7 +9,7 @@ permalink: /gallery/
 <div class="gallery-grid">
 
   <figure class="gallery-item">
-    <img src="{{ '/assets/img/gallery/HORS_10Jul2026.jpg' | relative_url }}" alt="Field campaign">
+    <img src="{{ '/assets/img/gallery/HORS_10Jul2026.jpg' | relative_url }}" alt="HORS_10Jul2026">
     <figcaption> Field Survey at HORS, Hasaki Beach, Japan (10 July 2026) </figcaption>
   </figure>
 
