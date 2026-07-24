@@ -28,7 +28,7 @@ permalink: /gallery/
 }
 
 .gallery-item img {
-  width: 100%;
+  width: 50%;
   height: auto;
   display: block;
   border-radius: 4px;
