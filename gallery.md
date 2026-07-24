@@ -9,13 +9,8 @@ permalink: /gallery/
 <div class="gallery-grid">
 
   <figure class="gallery-item">
-    <img src="{{ '/assets/img/gallery/photo1.jpg' | relative_url }}" alt="Field campaign">
-    <figcaption>Field campaign at Hasaki Beach, Japan.</figcaption>
-  </figure>
-
-  <figure class="gallery-item">
-    <img src="{{ '/assets/img/gallery/photo2.jpg' | relative_url }}" alt="LiDAR measurement">
-    <figcaption>LiDAR measurement of surf-zone waves.</figcaption>
+    <img src="{{ '/assets/img/gallery/HORS_10Jul2026.jpg' | relative_url }}" alt="Field campaign">
+    <figcaption> Field Survey at HORS, Hasaki Beach, Japan (10 July 2026) </figcaption>
   </figure>
 
 </div>
