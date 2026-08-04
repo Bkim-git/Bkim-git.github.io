@@ -36,11 +36,10 @@ title: "Home"
   <small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small>
 </div>
 
-- [S19] Noh, H., **Kim, B.**, Park, Y.S.\*, Chun, S.Y., Baek, S, & Hur, J. (in preparation) SWASSZ: A Framework for Stereo Wave Analysis in the Surf–Swash Zone Using Unsynchronized Arbitrary Multiple Cameras, *Coastal Engineering*.
-- [S18] Lee, M, Park, Y.S.*, **Kim, B.**, Noh, H., Lee, M., Kim, K.H., and Choi, J.H. (in preparation) Suspended Solids as a Predictor for Organic Matter and Nutrients in River Systems.
-- [S17] **Kim, B.**, Park, Y.S.\*, Jeon, J. (Under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues
-- [S16] Park, Y., Kim, M., Han, U., Lee, T., **Kim, B.**, Jo, H., & Cho, S.-K.\* (under review) Spatial and hydroclimatic variation of microplastic distribution in freshwater environments in South Korea, *Environmental Pollution*.
-- [S15] Park, Y.<sup>†</sup>, **Kim, B.** <sup>†</sup>, Seo, I.W., Baek, S, & Cho, S.-K.\* (under review) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Environmental Pollution*.
+- [S18] **Kim, B.**, Park, Y.S.\*, Jeon, J. (under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues, *Geoscience and Remote Sensing Letters*
+- [S17] Park, Y., Kim, M., Han, U., Lee, T., **Kim, B.**, Jo, H., & Cho, S.-K.\* (under review) Spatial and hydroclimatic variation of microplastic distribution in freshwater environments in South Korea, *Environmental Pollution*.
+- [S16] Park, Y.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Seo, I.W., Baek, S, & Cho, S.-K.\* (under review) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Environmental Pollution*.
+- [S15] Joeng, W.</sup>†</sup>, **Kim, B.<sup>†</sup>**, Baek, S., Park, Y.S., & Seo, I.W. (under review) Seepage Flow Responses to Backward Erosion Piping Characterized by Tracer Tests: A Proof-of-Concept Study, *Journal of Geotechnical and Geoenvironmental Engineering*.
 - [S14] Baek, S., Park, Y.S.\*, Jeong, H., & **Kim, B.** (under review) Phase-resolved settling velocity change of inertial particles in surface gravity waves, *Journal of Fluid Mechanics*. 
 - [S13] **Kim, B.**, Park, Y.S.\*, Noh, H., Baek, S., & Hur, J. (in press) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*.
 - [S12] **Kim, B.**, Park, Y.S.\*, Baek, S., & Hur, J. (2026) A Comparative Study of Mode Decomposition Techniques applied to Video-Based Depth Inversion, *Coastal Engineering*, 105042. [[Link]](https://doi.org/10.1016/j.coastaleng.2026.105042)
