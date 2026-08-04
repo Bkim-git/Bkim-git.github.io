@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
-include:
-  - _layouts
-  - _includes
-  - assets/css
 
 title: "Byunguk Kim's personal webpage"
 description: "This is the personal website of Byunguk Kim, PhD candidate in Coastal Engineering Laboratory at Seoul National University."
