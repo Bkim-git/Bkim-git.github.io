@@ -69,17 +69,23 @@ title: "Home"
 - [D02] Jung, S.H., Seo, I. W.\*, Park, S., Lee, H, & **Kim, B.** (2021). Experimental Investigation of Settling Velocity of Spherical Microplastic Particles. *Journal of the Korean Society of Hazard Mitigation*, 22(6), 551-561. [[Link]](https://www.j-kosham.or.kr/journal/view.php?doi=10.9798/KOSHAM.2022.22.6.351)
 - [D01] **Kim, B.**, Seo, I. W.\*, Kwon, S., Jung, S. H., & Yun, S. H. (2021). Analysis of solute transport in rivers using a stochastic storage model. *Journal of Korea Water Resources Association*, 54(5), 335-345. [[Link]](https://jkwra.or.kr/articles/xml/0KW8/)
   
-## Awards
-- (Oct. 2024)  2025 KSCOE Scholarship, Korean Society of Coastal and Ocean Engineers (KSCOE), South Korea
-- (May  2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), South Korea
-- (Oct. 2023)  Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, 
-- (Oct. 2023)  Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, South Korea
-- (Sep. 2023)  NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, South Korea
-- (Feb. 2023)  Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, South Korea 
-- (Oct. 2022)  Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, South Korea 
-- (Jun. 2022)  1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, South Korea 
-- (Apr. 2022)  2022 KPHA Scholarship, Korean Ports & Harbours Association, South Korea 
-- (Jun. 2021)  Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
-- (Oct. 2020)  Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, South Korea 
-- (Jun. 2020)  Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
+## Honors AND Awards
+- (16 Oct. 2025)  2025 KSCOE Scholarship, Korean Society of Coastal and Ocean Engineers (KSCOE), South Korea
+- (23 May  2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), South Korea
+- (12 Dec. 2023)  Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, 
+- (20 Oct. 2023)  Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, South Korea
+- (01 Sep. 2023)  NRF Fellowship (Sep 2023 - Aug. 2025), National Research Foundation of Korea, South Korea
+- (02 Feb. 2023)  Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, South Korea 
+- (21 Oct. 2022)  Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, South Korea 
+- (30 Nov. 2022)  1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, South Korea 
+- (19 Apr. 2022)  2022 KPHA Scholarship, Korean Ports & Harbours Association, South Korea 
+- (04 Apr. 2021)  Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
+- (23 Oct. 2020)  Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, South Korea 
+- (26 Jun. 2020)  Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
+
+## Patent
+- **Kim, B.**, Park, Y.S., Noh, H., & Lee, M.J. (21/04/2025) Method and Device for Surveying Nearshore Bathymetry using Drone Imagery, SNU R&DB Foundation, Korean Patent No. 10-2797375
+- **Kim, B.**, Seo, I. W., Kwon, S., & Noh, H. (12/12/2023) Method and Device for Predicting Time-Concentration Curves using Its Reach-Length Dependence, SNU R&DB Foundation, Korean Patent No. 10-2614520
+- Seo, I. W. & **Kim, B.** (12/04/2022) Method and Device for Stochastic Analysis of Solute Behavior in Rivers, SNU R&DB Foundation, Korean Patent No. 10-2387450
+- Seo, I. W., Choi, S., & **Kim, B.** (14/12/2020) Method for Analysis of Mixing and Reaction of Contaminants using a River Storage Zone Model Reflecting Hydraulic and Geometric Characteristics of River, SNU R&DB Foundation, Korean Patent No. 10-2193196
 
