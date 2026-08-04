@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
+// Body text a step darker than the theme's #727272. Headings and <strong> keep
+// their own theme colours, so only the regular grey text changes.
+body { color: #5a5a5a; }
+
 // Column proportions. Theme defaults: .wrapper 860, header/footer 270, section 500.
 // Right column +10% (500 -> 550); left column left at the theme's 270.
 // The gutter is whatever .wrapper has left over: 870 - 270 - 550 = 50 (theme: 90).
