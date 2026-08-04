@@ -2,3 +2,11 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+// Widen the right-hand content column. Theme defaults: .wrapper 860, header 270, section 500.
+// Guarded at 1010px = new wrapper width + body padding (50px x 2), so the theme's
+// single-column layout below 960px and the 960-1010px band stay untouched.
+@media screen and (min-width: 1010px) {
+    .wrapper { width: 910px; }
+    section  { width: 550px; }
+}
