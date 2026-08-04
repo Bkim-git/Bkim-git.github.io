@@ -11,13 +11,13 @@ website: "https://www.researchgate.net/profile/Byunguk-Kim"
 google_scholar: "https://scholar.google.com/citations?hl=ko&user=wT66tyUAAAAJ"
 
 nav:
-  - title: "About Me"
+  - title: "About"
     url: "/"
   - title: "Gallery"
     url: "/gallery/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Data repository"
+  - title: "Repository"
     url: "/repository/"
 plugins:
   - jekyll-feed

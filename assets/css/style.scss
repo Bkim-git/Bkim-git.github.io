@@ -4,11 +4,14 @@
 @import "jekyll-theme-minimal";
 
 // Column proportions. Theme defaults: .wrapper 860, header/footer 270, section 500.
-// Right column +10% (500 -> 550), left column -20% (270 -> 216).
-// Guarded at 1010px = wrapper width + body padding (50px x 2), so the theme's
-// single-column layout below 960px and the 960-1010px band stay untouched.
-@media screen and (min-width: 1010px) {
-    .wrapper        { width: 910px; }
-    section         { width: 550px; }
-    header, footer  { width: 216px; }
+// Right column +10% (500 -> 550); left column left at the theme's 270.
+// The gutter is whatever .wrapper has left over: 870 - 270 - 550 = 50 (theme: 90).
+// Guarded at 970px = wrapper width + body padding (50px x 2), so the theme's
+// single-column layout below 960px and the 960-970px band stay untouched.
+@media screen and (min-width: 970px) {
+    .wrapper { width: 870px; }
+    section  { width: 550px; }
 }
+
+// Sidebar site title only (theme h1 is 28px); content headings keep the theme size.
+header h1 { font-size: 26px; }
