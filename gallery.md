@@ -12,7 +12,7 @@ albums:
     date: "10 Apr. 2026"
     caption: ""
   - folder: 2026-02-25_PhD-graduation
-    title: "PhD graduation ceremony at Seoul National University"
+    title: "PhD graduation ceremony at SNU"
     date: "25 Feb. 2026"
     caption: ""
 ---
