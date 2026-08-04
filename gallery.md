@@ -5,11 +5,15 @@ permalink: /gallery/
 albums:
   - folder: 2026-07-10_HORS-Hasaki
     title: "Fixed lidar calibration at HORS, Hasaki Beach, Japan"
-    date: "10 July 2026"
+    date: "10 Jul. 2026"
     caption: ""
   - folder: 2026-04-10_Oleron
     title: "Field test with Drone-borne lidar at Oleron island, France"
-    date: "10 April 2026"
+    date: "10 Apr. 2026"
+    caption: ""
+  - folder: 2026-02-25_PhD-graduation
+    title: "PhD graduation ceremony at Seoul National University"
+    date: "25 Feb. 2026"
     caption: ""
 ---
 
