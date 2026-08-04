@@ -13,7 +13,9 @@ albums:
     caption: ""
 ---
 
-<h1>Gallery</h1>
+## 📷 Gallery
+
+---
 
 {% assign gallery_root = '/assets/img/gallery/' %}
 {% assign image_exts = '.jpg .jpeg .png .webp .JPG .JPEG .PNG' | split: ' ' %}
@@ -33,7 +35,7 @@ albums:
 {% endif %}
 
 {% if photos.size > 0 %}
-<div class="gallery-grid">{% for photo in photos %}<a href="{{ photo.path | relative_url }}"><img src="{{ photo.path | relative_url }}" alt="{{ album.title }}" loading="lazy"></a>{% endfor %}</div>
+<div class="gallery-row">{% for photo in photos %}<img src="{{ photo.path | relative_url }}" alt="{{ album.title }}" loading="lazy">{% endfor %}</div>
 {% else %}
 <p class="album-empty">No images found in assets/img/gallery/{{ album.folder }}/</p>
 {% endif %}
@@ -61,17 +63,20 @@ albums:
   color: #999;
 }
 
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+/* Single row, scrolls right when the album has more photos than fit. */
+.gallery-row {
+  display: flex;
   gap: 12px;
+  overflow-x: auto;
+  padding-bottom: 10px;
   margin-bottom: 40px;
 }
 
-.gallery-grid img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+.gallery-row img {
+  flex: 0 0 auto;
+  height: 150px;
+  width: auto;
+  max-width: none;
   border-radius: 4px;
   display: block;
 }

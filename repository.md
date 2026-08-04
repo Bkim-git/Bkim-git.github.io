@@ -4,11 +4,11 @@ title: "Data Repository"
 permalink: /repository/
 ---
 
-## 📦 Data Repository
-
-This page contains links to datasets, models, and supplementary material related to my researches.
+## 📦 Repository
 
 ---
+
+This page contains links to datasets, models, and supplementary material related to my researches.
 
 ###  MLP Beach campaign conducted on 13–14 December 2024
 - **Description**: Preprocessed wave field videos, bathymetry survey data, and in-situ pressure gauge data during the field campaign in Mallipo Beach, South Korea.
@@ -61,7 +61,7 @@ This page contains links to datasets, models, and supplementary material related
 ---
 
 
-## 📝 Usage & License
+### Usage & License
 
 All datasets are released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).  
 If you use the data, please cite the corresponding publication.

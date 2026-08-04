@@ -2,7 +2,7 @@
 layout: default
 title: "Blog"
 ---
-## 📝 Welcome to My Blog
+## 📝 Blog
 
 ---
 
