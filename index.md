@@ -25,12 +25,12 @@ title: "Home"
 
 ## Professional Experiences
 - *Mar. 2026 – Present* |
-  Postdoctoral Researcher, UMR 7266 LIENSs, CNRS - La Rochelle Université, France
-- *Sep. 2019 – Feb. 2026* |
-  Research Assistant, Department of Civil & Environmental Engineering, Seoul National University, South Korea
+  Postdoctoral Researcher, UMR 7266 LIENSs, CNRS, La Rochelle, France
 - *Sep. 2023 – Aug. 2025* |
   NRF Doctoral Research Fellow, National Research Foundation of Korea, South Korea
-
+- *Sep. 2019 – Feb. 2026* |
+  Research Assistant, Department of Civil & Environmental Engineering, Seoul National University, South Korea
+  
 ## Publications - SCI(E) indexed Journals
 <div style="text-align:right; margin:-13px 0 5px 0; line-height:1.0;">
   <small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small>
