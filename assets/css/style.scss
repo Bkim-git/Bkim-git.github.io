@@ -15,3 +15,13 @@
 
 // Sidebar site title only (theme h1 is 28px); content headings keep the theme size.
 header h1 { font-size: 26px; }
+
+// Sidebar tagline. 9.5px is the largest size that keeps the full string inside the
+// 270px column in Noto Sans (measured 262.6px); nowrap guarantees it never wraps.
+// The negative top margin closes the theme's 20px h1 bottom margin.
+header .site-tagline {
+    font-size: 9.5px;
+    white-space: nowrap;
+    color: #727272;
+    margin: -16px 0 20px;
+}
