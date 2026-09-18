@@ -35,8 +35,8 @@ title: "Home"
 <div style="text-align:right; margin:-13px 0 5px 0; line-height:1.0;">
   <small>&#42; Corresponding author &nbsp;&nbsp; &#8224; Co-first authors</small>
 </div>
-- [S19] **Kim, B.**, Lee, M.\*, Park, Y.S.\* (submitted) Continuously Updated Intertidal Topography through Satellite-Derived Waterline Assimilation, *Geophysical Research Letters*
-- [S18] **Kim, B.**, Park, Y.S.\*, Jeon, J. (under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues, *Geoscience and Remote Sensing Letters*
+- [S19] **Kim, B.**, Lee, M.\*, & Park, Y.S.\* (submitted) Continuously Updated Intertidal Topography through Satellite-Derived Waterline Assimilation, *Geophysical Research Letters*
+- [S18] **Kim, B.**, Park, Y.S.\*, & Jeon, J. (under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues, *Geoscience and Remote Sensing Letters*
 - [S17] Jo, H., Kim, M., Han, U., Hwon, J., Lee, T., **Kim, B.**, Park, Y., & Cho, S.-K.\* (under review) Hydroclimatic modulation of anthropogenic microplastic signals in a monsoon-influenced river–reservoir system, *Marine Pollution Bulletin*.
 - [S16] Joeng, W.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Baek, S., Park, Y.S., & Seo, I.W. (under review) Seepage Flow Responses to Backward Erosion Piping Characterized by Tracer Tests: A Proof-of-Concept Study, *Journal of Geotechnical and Geoenvironmental Engineering*.
 - [S15] Park, Y.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Seo, I.W., Baek, S, & Cho, S.-K.\* (2026) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Environmental Pollution*, 409, 128995 [[Link]](https://doi.org/10.1016/j.envpol.2026.128995)
