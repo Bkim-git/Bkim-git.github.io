@@ -103,16 +103,16 @@ title: "Home"
 ## Honors & Awards
 - (16 Oct. 2025)  2025 KSCOE Scholarship, Korean Society of Coastal and Ocean Engineers (KSCOE), South Korea
 - (23 May  2024)  Future Ocean Science & Technology Award (Marine Technology), Korean Society of Coastal and Ocean Engineers (KAOSTS), South Korea
-- (12 Dec. 2023)  Conference Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, 
-- (20 Oct. 2023)  Conference Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, South Korea
+- (12 Dec. 2023)  Best Paper Award, 2023 Fall Conference and Regular General Meeting of the KSOE, Korean Society of Ocean Engineers, 
+- (20 Oct. 2023)  Best Paper Award, 2023 KSCE Convention, Korean Society of  Civil Engineers, South Korea
 - (01 Sep. 2023 - 30 Aug. 2025) NRF Fellowship, National Research Foundation of Korea, South Korea
-- (02 Feb. 2023)  Conference Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, South Korea 
-- (21 Oct. 2022)  Conference Award, 2022 KSCE Convention, Korean Society of Civil Engineers, South Korea 
+- (02 Feb. 2023)  Best Paper Award, 2022 KSCOE Autumn Conference, Korean Society of Coastal and Ocean Engineers, South Korea 
+- (21 Oct. 2022)  Best Paper Award, 2022 KSCE Convention, Korean Society of Civil Engineers, South Korea 
 - (30 Nov. 2022)  1st Prize, 2022 Smart City Entrepreneurship Idea Contest Hackathon , College of Engineering, Seoul National University, South Korea 
 - (19 Apr. 2022)  2022 KPHA Scholarship, Korean Ports & Harbours Association, South Korea 
-- (04 Apr. 2021)  Conference Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
-- (23 Oct. 2020)  Conference Award, 2020 KSCE Convention, Korean Society of Civil Engineers, South Korea 
-- (26 Jun. 2020)  Conference Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
+- (04 Apr. 2021)  Best Paper Award, 2021 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
+- (23 Oct. 2020)  Best Paper Award, 2020 KSCE Convention, Korean Society of Civil Engineers, South Korea 
+- (26 Jun. 2020)  Best Paper Award, 2020 KWRA Annual Conference, Korea Water Resources Assiciation, South Korea 
 
 ## Patent
 - **Kim, B.**, Park, Y.S., Noh, H., & Lee, M.J. (21/04/2025) Method and Device for Surveying Nearshore Bathymetry using Drone Imagery, SNU R&DB Foundation, Korean Patent No. 10-2797375
