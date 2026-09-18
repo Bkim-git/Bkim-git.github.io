@@ -31,4 +31,5 @@ header .site-tagline {
 }
 
 // Year labels between publication groups in index.md.
-.pub-year { font-size: 12px; font-weight: 700; color: #999; margin: 16px 0 4px; }
+.pub-year { font-size: 12px; color: #999; margin: 0 0 2px; }
+ul:has(+ .pub-year) { margin-bottom: 8px; }  // theme default 20px
