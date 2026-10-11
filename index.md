@@ -37,14 +37,14 @@ title: "Home"
 </div>
 
 <p class="pub-year">Under review</p>
-
-- [S19] **Kim, B.**, Lee, M.<sup>&#42;</sup>, & Park, Y.S.<sup>&#42;</sup> (submitted) Continuously Updated Intertidal Topography through Satellite-Derived Waterline Assimilation, *Geophysical Research Letters*
-- [S18] **Kim, B.**, Park, Y.S.<sup>&#42;</sup>, & Jeon, J. (under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues, *Geoscience and Remote Sensing Letters*
+- [S19] Park, Y.S., & **Kim, B.**<sup>&#42;</sup> (under review) Finite-Window Discriminability of Water-Wave Dispersion Relations Using Video Imagery, *Applied Ocean Research*
+- [S19] **Kim, B.**, Lee, M.<sup>&#42;</sup>, & Park, Y.S. (under review) Continuously Updated Intertidal Topography through Satellite-Derived Waterline Assimilation, *Applied Ocean Research*
+- [S18] **Kim, B.<sup>&#42;</sup>**, Park, Y.S., & Jeon, J. (under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues, *Geoscience and Remote Sensing Letters*
 - [S17] Jo, H., Kim, M., Han, U., Hwon, J., Lee, T., **Kim, B.**, Park, Y., & Cho, S.-K.<sup>&#42;</sup> (under review) Hydroclimatic modulation of anthropogenic microplastic signals in a monsoon-influenced river–reservoir system, *Marine Pollution Bulletin*.
-- [S16] Joeng, W.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Baek, S., Park, Y.S., & Seo, I.W. (under review) Seepage Flow Responses to Backward Erosion Piping Characterized by Tracer Tests: A Proof-of-Concept Study, *Journal of Geotechnical and Geoenvironmental Engineering*.
 
 <p class="pub-year">2026</p>
 
+- [S16] Joeng, W.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Baek, S., Park, Y.S., & Seo, I.W. (accepted) Seepage Flow Responses to Backward Erosion Piping Characterized by Tracer Tests: A Proof-of-Concept Study, *Journal of Geotechnical and Geoenvironmental Engineering*.
 - [S15] Park, Y.<sup>†</sup>, **Kim, B.<sup>†</sup>**, Seo, I.W., Baek, S, & Cho, S.-K.<sup>&#42;</sup> (2026) Weathering alters the settling dynamics of polyethylene microplastics: Integrating morphology-dependent drag coefficient with numerical simulations, *Environmental Pollution*, 409, 128995 [[Link]](https://doi.org/10.1016/j.envpol.2026.128995)
 - [S14] Baek, S., Park, Y.S.<sup>&#42;</sup>, Jeong, H., & **Kim, B.** (2026) Phase-resolved settling velocity change of inertial particles in surface gravity waves, *Journal of Fluid Mechanics*, . [[Link]](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/phaseresolved-settling-velocity-change-of-inertial-particles-in-surface-gravity-waves/61922705799E513FDF906C8DDF2897DA?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
 - [S13] **Kim, B.**, Park, Y.S.<sup>&#42;</sup>, Noh, H., Baek, S., & Hur, J. (2026) Nonlinear Kinematic Depth Inversion coupled with Spectral Wave Model, *Journal of Geophysical Research: Oceans*, 131(8), e2025JC023876. [[Link]](https://doi.org/10.1029/2025JC023876)
