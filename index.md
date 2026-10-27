@@ -37,6 +37,7 @@ title: "Home"
 </div>
 
 <p class="pub-year">Under review</p>
+
 - [S19] Park, Y.S., & **Kim, B.**<sup>&#42;</sup> (under review) Finite-Window Discriminability of Water-Wave Dispersion Relations Using Video Imagery, *Applied Ocean Research*
 - [S18] **Kim, B.**, Lee, M.<sup>&#42;</sup>, & Park, Y.S. (under review) Continuously Updated Intertidal Topography through Satellite-Derived Waterline Assimilation, *Applied Ocean Research*
 - [S17] **Kim, B.<sup>&#42;</sup>**, Park, Y.S., & Jeon, J. (under review) Uncertainty Attribution and Bias Correction in Pose-Based UAV Georectification over Planar Water-Surface Analogues, *Geoscience and Remote Sensing Letters*
